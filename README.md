@@ -11,8 +11,8 @@ Official Codebase for ICML 2025 paper.
 
 ## 🔔 News
 
-- **[2026-02-18]** CoreCognition is now officially supported by [VLMEvalKit](https://github.com/open-compass/VLMEvalKit)! Researchers can evaluate their models on our benchmark directly through the toolkit. 🚀🚀🚀 
-- **[2026-02-08]** CoreCognition is now officially supported by [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)! Researchers can evaluate their models on our benchmark directly through the toolkit. 🚀🚀🚀
-- **[2025-07-29]** The CoreCognition dataset is now available on [Hugging Face](https://huggingface.co/datasets/williamium/CoreCognition)! 🌟🌟🌟
+- **[2026-02-18]** 🚀🚀🚀 CoreCognition is now officially supported by [VLMEvalKit](https://github.com/open-compass/VLMEvalKit)! Researchers can evaluate their models on our benchmark directly through the toolkit. 
+- **[2026-02-08]** 🚀🚀🚀 CoreCognition is now officially supported by [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)! Researchers can evaluate their models on our benchmark directly through the toolkit.
+- **[2025-07-29]** 🌟🌟🌟 The CoreCognition dataset is now available on [Hugging Face](https://huggingface.co/datasets/williamium/CoreCognition)!
 
 
